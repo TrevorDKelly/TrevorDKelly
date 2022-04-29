@@ -1,0 +1,42 @@
+@import url("template.css");
+
+.headshot {
+  max-height: 325px;
+}
+
+.small-logo {
+  width: 50px;
+}
+
+.resume-button {
+  display: flex;
+  align-items: center;
+  gap: 10%;
+}
+
+.resume-logo {
+  height: 30px;
+  width: auto;
+}
+
+h2 {
+  font: 2.5rem "Koulen", sans-serif;
+  text-align: center;
+}
+
+.spotlight .image img, .spotlight .image {
+  border-radius: 5%;
+}
+
+.special p {
+  margin: 0 0 1.5em 0;
+}
+
+.wrapper > .inner.alt.chimera > * {
+  border-top: none;
+  margin-bottom: 5%;
+}
+
+.inner.alt.chimera > .spotlight > .image {
+  box-shadow: none;
+}
