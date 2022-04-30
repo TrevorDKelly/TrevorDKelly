@@ -3612,7 +3612,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		background-color: #4696e5;
+		background-color: #5290c1;
 		color: #d1e5f9;
 		padding: 4.5em 0 2.5em 0 ;
 		-moz-align-items: center;
@@ -3627,7 +3627,7 @@ input, select, textarea {
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		background-image: url("images/overlay.png"), url("images/pattern-size1.svg");
+		background-image: url("images/overlay.png");
 		background-position: top left, center center;
 		background-attachment: fixed, fixed;
 		background-size: auto, cover;
